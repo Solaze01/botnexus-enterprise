@@ -19,11 +19,11 @@
 
 ## 📦 Setup
 ```bash
-git clone https://github.com/yourusername/botnexus-enterprise.git
+git clone https://github.com/Solaze01/botnexus-enterprise.git
 cd botnexus-enterprise
 docker-compose up --build
 ```
 
 ## 📡 Contact & License
-Developed by [Your Name]  
+Developed by Ezekiel. 
 MIT License.

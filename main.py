@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, executor
 from aiogram.types import Message
 
 # Replace with your actual bot token from @BotFather
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+TOKEN = "7914844554:AAHGhssrtQ2o9jzyiIPeC1lrmreAXd8-lok"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
